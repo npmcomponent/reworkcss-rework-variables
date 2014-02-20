@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [reworkcss/rework-variables](http://github.com/reworkcss/rework-variables). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/reworkcss-rework-variables`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 ## Variables [![Build Status](https://travis-ci.org/reworkcss/rework-variables.png)](https://travis-ci.org/reworkcss/rework-variables)
 
 Variable mixin for [rework](https://github.com/visionmedia/rework).
